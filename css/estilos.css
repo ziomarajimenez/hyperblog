@@ -3,3 +3,7 @@ body{
     font-family: "Arial";
     color: deeppink;
 }
+
+h1{
+    background-color: grey;
+}
