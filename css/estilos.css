@@ -7,3 +7,8 @@ body{
 h1{
     background-color: lightblue;
 }
+
+#logo{
+    width: 20px;
+    height: 20px;
+}
